@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tttoom580-ui.github.io/storysteps-preview/sitemap.xml
